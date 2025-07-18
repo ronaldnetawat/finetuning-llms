@@ -6,4 +6,6 @@ checkpoint*/
 *.log
 *.ckpt
 .ipynb_checkpoints/
+*.DS_Store
+*.gitignore
 
