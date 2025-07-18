@@ -1,0 +1,7 @@
+# Ignore Hugging Face Trainer outputs
+trainer_output/
+checkpoint*/
+*.bin
+*.json
+*.log
+*.ckpt
