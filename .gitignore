@@ -5,3 +5,5 @@ checkpoint*/
 *.json
 *.log
 *.ckpt
+.ipynb_checkpoints/
+
