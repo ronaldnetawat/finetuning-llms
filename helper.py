@@ -100,4 +100,4 @@ def display_dataset(dataset):
     # diplay the result as a table
     df = pd.DataFrame(rows)
     pd.set_option('display.max_colwidth', None)  # Avoid truncating long strings
-    display(df)
+    display(df) # display is like print() for interactive python env
